@@ -1,6 +1,6 @@
 ### Hi Stranger 🧙‍♀️💫
 
-I'm learning **android** and so on these days.
+i'm learning **android** and so on these days.
 
 ![uunwon's github stats](https://github-readme-stats.vercel.app/api?username=uunwon&show_icons=true&theme=midnight-purple)
 
