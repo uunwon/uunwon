@@ -27,7 +27,6 @@ I'm learning **Android** and so on these days.
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-00000?style=flat-square&logo=Notion&logoColor=white">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
-    <img src="https://img.shields.io/badge/Chupachups-CF103E?style=flat-square&logo=Chupachups&logoColor=white">
 </span>
 
 ### Git-Lifecycle
