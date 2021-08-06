@@ -32,7 +32,7 @@ I'm learning **Android** and so on these days.
 ### Git-Lifecycle
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="uunwon's streak"
-     src="https://github-readme-streak-stats.herokuapp.com/?user=uunwon&theme=material-palenight&hide_border=true"/>
+     src="https://github-readme-streak-stats.herokuapp.com/?user=uunwon&theme=dark-smoky&hide_border=true"/>
 </p>
 
 <!-- streak status theme : material-palenight / dark-smoky -->
