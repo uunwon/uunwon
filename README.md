@@ -35,8 +35,6 @@ I'm learning **Android** and so on these days.
      src="https://github-readme-streak-stats.herokuapp.com/?user=uunwon&theme=green_nur&hide_border=true"/>
 </p>
 
-<!-- streak status theme : material-palenight / dark-smoky -->
-
 <!-- ![uunwon's github stats](https://github-readme-stats.vercel.app/api?username=uunwon&show_icons=true&theme=outrun) -->
 
 <!--
