@@ -35,6 +35,8 @@ I'm learning **Android** and so on these days.
      src="https://github-readme-streak-stats.herokuapp.com/?user=uunwon&theme=green_nur&hide_border=true"/>
 </p>
 
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chea2089)](https://github.com/mazassumnida/mazassumnida) -->
+
 <!-- ![uunwon's github stats](https://github-readme-stats.vercel.app/api?username=uunwon&show_icons=true&theme=outrun) -->
 
 <!--
