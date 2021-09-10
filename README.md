@@ -2,7 +2,6 @@
 
 <!-- <img src="https://media.giphy.com/media/XgGfSKjNN53hLUHjye/source.gif" width="60"> -->
 <!-- 통통 튀는 하트 https://media.giphy.com/media/jTTxp06FuNxpP22cnd/source.gif -->
-<!-- 흔들리는 별 https://media.giphy.com/media/l46CyGI07nJ0m0TVS/source.gif -->
 <!-- 흔들리는 깃 https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif -->
 <!-- 컴퓨터 https://media.giphy.com/media/dYyRWrXb9OpfYbhNY4/source.gif -->
 
