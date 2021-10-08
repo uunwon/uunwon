@@ -7,7 +7,7 @@
 
 I'm learning **Android** and so on these days.
 
-### Tech-stack
+### tech-stack
 <span>
     <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white">
@@ -28,7 +28,7 @@ I'm learning **Android** and so on these days.
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
 </span>
 
-### Git-Lifecycle
+### git-Lifecycle
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="uunwon's streak"
      src="https://github-readme-streak-stats.herokuapp.com/?user=uunwon&theme=green_nur&hide_border=true"/>
