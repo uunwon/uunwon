@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&color=%23000000&lines=Moblie+Application+Developer;Studying+Android+and+So+on+.+.+.&center=true&width=440&height=45&vCenter=true&size=22"></a>
 </p>
 
-<!-- Social badges section -->
+<!-- Social Badges section -->
 <p align="center">
     <img src="https://img.shields.io/badge/android studio-%3DDC84.svg?color=%23E05D44&logo=androidstudio&logoColor=white&style=for-the-badge&labelColor=CE4630" />
     <img src="https://img.shields.io/badge/kotlin-%3DDC84.svg?color=%23E1AD0E&logo=kotlin&logoColor=white&style=for-the-badge&labelColor=C79600" />
