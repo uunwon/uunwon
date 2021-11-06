@@ -2,7 +2,7 @@
   H I , T H E R E
 </h3>
 
-<h3 align="center"> <img src="https://media.giphy.com/media/Ph0oIVQeuvh0k/giphy.gif" width="40%"> </h3>
+<h3 align="center"> <img src="https://media.giphy.com/media/Ph0oIVQeuvh0k/giphy.gif" width="40%" /> </h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&color=%23000000&lines=Moblie+Application+Developer;Studying+Android+and+So+on+.+.+.&center=true&width=440&height=45&vCenter=true&size=22"></a>
