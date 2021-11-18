@@ -1,7 +1,9 @@
+<!-- Introduction section -->
 <h3 align="center">
   H I , T H E R E
 </h3>
 
+<!-- Intro Image section -->
 <h3 align="center"> <img src="https://media.giphy.com/media/Ph0oIVQeuvh0k/giphy.gif" width="40%" /> </h3>
 
 <p align="center">
