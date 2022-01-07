@@ -1,21 +1,23 @@
-<!-- Introduction section -->
-<h3 align="center">
-  H I , T H E R E
-</h3>
-
-<!-- Intro Image section -->
-<h3 align="center"> <img src="https://media.giphy.com/media/Ph0oIVQeuvh0k/giphy.gif" width="40%" /> </h3>
-
-<!-- Dream Text section -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&color=%23000000&lines=Moblie+Application+Developer;Studying+Android+and+So+on+.+.+.&center=true&width=440&height=45&vCenter=true&size=22"></a>
+<p>
+  <a href="https://uunwon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="uunwon@naver.com" target="_blank"><img src="https://img.shields.io/badge/uunwon@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <!--a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/YunwonChae-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a -->
 </p>
 
-<!-- Social Badges section -->
-<p align="center">
-    <img src="https://img.shields.io/badge/android studio-%3DDC84.svg?color=%23E05D44&logo=androidstudio&logoColor=white&style=for-the-badge&labelColor=CE4630" />
-    <img src="https://img.shields.io/badge/kotlin-%3DDC84.svg?color=%23E1AD0E&logo=kotlin&logoColor=white&style=for-the-badge&labelColor=C79600" />
-    <img src="https://img.shields.io/badge/java-%55960C.svg?color=%55960C&logo=java&logoColor=white&style=for-the-badge&labelColor=488207" />
-    <img src="https://img.shields.io/badge/react native-%23007ACC.svg?color=%23007ACC&style=for-the-badge&logo=react&logoColor=white&labelColor=1155BA" />
-    <img src="https://img.shields.io/badge/javascript-%663169.svg?color=blueviolet&style=for-the-badge&logo=javascript&logoColor=white&labelColor=6d35a1"  />
+<p>
+  👋 Hi there! I'm <b>mobile app developer</b> using Android. 🚀<br/>
+  Sometimes I develop cross-platforms like ReactNative, but prefer native. 💖<br/><br/>
+  I enjoy taking a picture and biking. 📸🚴‍♂️<br/>
+  I wanna develop sth that makes people happy.<br/>
+</p>
+
+#### 💪 Platforms & Languages
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </p>
