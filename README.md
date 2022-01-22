@@ -5,10 +5,11 @@
 </p>
 
 <p>
-  👋 Hi there! I'm <b>mobile app developer</b> using Android. 🚀<br/>
-  Sometimes I develop cross-platforms like ReactNative, but prefer native. 💖<br/><br/>
-  I enjoy taking a picture and biking. 📸🚴‍♂️<br/>
-  I wanna develop sth that makes people happy.<br/>
+  👋 Hi there! I'm <b>mobile app developer</b> using Android. 🚀</br>
+  Sometimes I develop cross-platforms like ReactNative, but prefer native. 💖  
+  
+  I enjoy taking a picture and biking. 📸🚴‍♂️  
+  I wanna develop sth that makes people happy.  
 </p>
 
 #### 💪 Platforms & Languages
