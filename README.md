@@ -4,7 +4,6 @@
   <!--a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/YunwonChae-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a -->
 </p>
 
-<!--
 <p>
   👋 Hi there! I'm <b>mobile app developer</b> using Android. 🚀</br>
   Sometimes I develop cross-platforms like ReactNative, but prefer native. 💖  
