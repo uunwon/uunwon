@@ -1,7 +1,7 @@
+<!--
 <p>
   <a href="https://uunwon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="uunwon@naver.com" target="_blank"><img src="https://img.shields.io/badge/uunwon@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-  <!--a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/YunwonChae-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a -->
 </p>
 
 <p>
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </p>
 
-
+-->
 <!--
 #### 🗃 Projects
 | Year | Title                                    | Mobile Technologies                    |
