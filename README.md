@@ -6,7 +6,7 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>iOS Mobile Developer</b>.🚀<br/>
-  I majored in software at Tech University of Korea and have experience Intern as an Android intern.<br/>
+  I majored in software at Tech University of Korea and have experience as an Android intern.<br/>
   At present, I have been interested in developing iOS apps using UIKit and SwiftUI.<br/><br/>
   I enjoy hiking, meditating, and reading poetry. ⛰ 🧘<br/>
   I hope to develop things with a focus on UX. ✨ <br/>
